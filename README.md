@@ -3,7 +3,8 @@ This is a web application for the project IsoSec based on the theme of Internet 
 IsoSec or Isolated Security is our solution to the security problems faced by Residential areas. IsoSec provides automation to the process of entering
 vehicles into the residential areas.<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;The web application is used to maintain the details of visitors, cabs and delivery guys inorder grant them access. The details of
-people are provided by the resident prior to their arrival. This application can grant access, validate OTP and run sessions of the visitors.
+people are provided by the resident prior to their arrival. This application can grant access, validate OTP and run sessions of the visitors.<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;The demo and brief description about the project can be found at https://drive.google.com/drive/u/1/folders/0BxQJST4_dkobLW0yWnFlWFFMQzA
 
 # Built-With
 <ul>
